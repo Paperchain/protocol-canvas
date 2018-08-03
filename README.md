@@ -40,6 +40,15 @@ Some examples for DPPs are
 - Trust
 - Points of failure
 
+Incentives can be refferred to activies such as block rewards, earning tokens etc. 
+Staking & Slashing can be considered as governance measures.
+
+As many canvases are built and the design mapped out, some interesting observation start forming
+- dApps center around designs that risk vs reward for actors while protocol identify risks & mitigate them through network incentives
+- protocols work on commitment in the future based on performance in the past
+- risk <> reward structures keep all actors on edge and accountable
+- block rewards are ideal for proven resource contribution
+
 ## Putting it all together
 What we end with is mapping all of this is as a matrix - the Protocol Canvas or the Protocol Matrix ( see below )
 
