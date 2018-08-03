@@ -43,7 +43,7 @@ Some examples for DPPs are
 ## Putting it all together
 What we end with is mapping all of this is as a matrix - the Protocol Canvas or the Protocol Matrix ( see below )
 
-[Insert image here]
+![protocol-template](/assets/protocol-template.PNG)
 
 ## Contributions
 The mission here is to help individuals and organizations capture their design in standardized way and to contribute towards the new discipline of Token Engineering. 
